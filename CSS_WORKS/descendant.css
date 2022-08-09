@@ -1,0 +1,11 @@
+div :nth-child(1){
+    color: rgb(56, 102, 104);
+}
+div :nth-child(2){
+    color: rgb(184, 17, 142);
+}
+div :nth-child(3){
+    color:rgb(70, 70, 14)
+}
+/* a:hover{
+} */

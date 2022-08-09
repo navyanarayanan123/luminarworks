@@ -1,0 +1,6 @@
+div{
+    background-color: cyan;
+    width: 300px;
+    position: sticky;
+    top: 0px;
+}

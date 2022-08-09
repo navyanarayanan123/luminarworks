@@ -1,0 +1,84 @@
+body{
+    background-color: black;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.a1{
+    margin: auto;
+}
+.a2{
+    margin: auto;
+}
+.a3{
+    margin: auto;
+}
+td{
+    height: 110px;
+    width: 80px;
+    border: 2px solid black;
+}
+#f1{
+   background-color: rgb(48, 45, 45);
+}
+#f2{
+    background-color: rgb(30, 56, 30);
+}
+#f3{
+    background-color: rgb(47, 161, 98);
+}
+#f4{
+    background-color: rgb(14, 243, 14);
+}
+#f5{
+    background-color: rgb(201, 184, 184);
+}
+#s1{
+    background-color: orangered;
+}
+#s2{
+    background-color: rgb(204, 38, 60);
+}
+#s3{
+    background-color: violet;
+}
+#s4{
+    background-color: blueviolet;
+}
+#s5{
+    background-color: rgb(58, 15, 83);
+}
+#s6{
+    background-color: blueviolet;
+}
+#s7{
+    background-color: rgb(107, 95, 95);
+}
+#t1{
+    background-color: rgb(15, 141, 184);
+}
+#t2{
+    background-color: rgb(187, 223, 57);
+}
+#t3{
+    background-color: rgb(187, 97, 55);
+}
+#t4{
+    background-color: rgb(235, 10, 115);
+}
+#t5{
+    background-color: rgb(26, 1, 1);
+}
+#t6{
+    background-color: darkturquoise;
+}
+#t7{
+    background-color:springgreen ;
+}
+#t8{
+    background-color: darkorchid;
+}
+#t9{
+    background-color: rgb(64, 19, 83);
+}

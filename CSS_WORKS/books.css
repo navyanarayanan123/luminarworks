@@ -1,0 +1,17 @@
+div{
+    width: 24%;
+    height: 557px;
+    background-color: rgb(199, 160, 172);
+    border: black solid 1px;
+    float: left;
+}
+img{
+    width: 100%;
+    height: 230px;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+}

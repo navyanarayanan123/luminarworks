@@ -1,0 +1,16 @@
+.row{
+    /* background-color: blue; */
+    height: 152px;
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    align-items:center;
+}
+.col{
+    width: 100px;
+    height: 150px;
+    border: rgb(161, 134, 114) solid 1px;
+    background-color: darkred;
+}
